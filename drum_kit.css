@@ -1,0 +1,170 @@
+html{
+    background-size: 10px;
+    background: url(images/Drum-kit\ background2.jpg);
+    background-size: cover;
+}
+h1{
+text-align: center;
+font-size: 5rem;
+font-style: italic;
+}
+.drum:hover{
+    box-shadow: 0 12px 16px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.19);
+}
+.pressed {
+    box-shadow: 0 12px 16px 0 rgb(255, 255, 255), 0 17px 50px 0 rgba(255, 255, 255, 0.19);
+    opacity: 0.5;
+  }
+.a{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+    /* background: rgb(240,249,255);
+    background: radial-gradient(ellipse at center, rgba(240,249,255,1) 0%,rgba(99, 99, 99,1) 100%); */
+
+    /* background: rgba(0, 0, 0, 0.4);
+    border: solid white 0.4rem;
+    border-radius: 0.5rem;
+    color: white;
+    min-width: 10rem;
+    min-height: 10rem;
+    margin: 1rem;
+    padding: 1rem 0.5rem;
+    transition: all 0.07s ease;
+    text-shadow: 0 0 0.5rem white;
+    justify-content: center;
+    text-align: center; */
+}
+.s{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
+
+.d{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
+.f{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+    text-align: center;
+}
+.g{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
+.h{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
+.j{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow: 0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
+.k{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    color: white;
+    text-shadow:0 0 0.5rem white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style:italic;
+    float: left;
+    transition: all .07s;
+    border: solid rgb(34, 32, 32) 0.4rem;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.4);
+    transform: scale(1.25);
+    margin: 25px;
+}
